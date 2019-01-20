@@ -23,9 +23,9 @@ body {
 	text-align: center;
 	width: 100%;
 	position: absolute;
-	top: 70%;
+	top: 20%;
 	left: 50%;
-	transform: translate(-50%,-50%);
+	transform: translate(-20%,-50%);
 	margin: 0;
 	font-family: 'Lobster', cursive;
 }
@@ -53,7 +53,7 @@ body {
 /* ------ Navigacija / početak ------ */
 .navigacija {
 	height: 70px;
-	background-color: #F1C40F;
+	background-color: #7c1b52;
 }
 .navigacija li {
 	display: inline;
@@ -62,9 +62,9 @@ body {
 }
 .navigacija li a {
 	line-height: 70px;
-	color: #000;
+	color: #ffffff;
 	text-decoration: none;
-	font-size: 18pt;
+	font-size: 20pt;
 }
 .navigacija .hamburger {
 	text-align: right;
@@ -83,7 +83,7 @@ body {
 	.navigacija .main-menu li {
 		border-top: 1px solid black;
 		display: block;
-		background-color: #F1C40F;
+		background-color: #7c1b52;
 	}
 	.navigacija {
 		height: auto;
