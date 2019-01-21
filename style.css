@@ -81,7 +81,7 @@ body {
 		display: block;
 	}
 	.navigacija .main-menu li {
-		border-top: 1px solid black;
+		border-top: 1px solid #ffffff;
 		display: block;
 		background-color: #511141;
 	}
@@ -156,9 +156,6 @@ body {
 .galerija .maska .naziv-rada {
 	font-size: 18pt;
 	text-transform: uppercase;
-}
-.galerija .maska .kategorija {
-	font-size: 14pt;
 }
 /* ------ Galerija / kraj ------ */
 
