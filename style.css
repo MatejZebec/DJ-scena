@@ -53,7 +53,7 @@ body {
 /* ------ Navigacija / početak ------ */
 .navigacija {
 	height: 70px;
-	background-color: #3a3238;
+	background-color: #511141;
 }
 .navigacija li {
 	display: inline;
@@ -83,7 +83,7 @@ body {
 	.navigacija .main-menu li {
 		border-top: 1px solid black;
 		display: block;
-		background-color: #3a3238;
+		background-color: #511141;
 	}
 	.navigacija {
 		height: auto;
