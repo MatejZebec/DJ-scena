@@ -192,8 +192,9 @@ body {
 	}
 }
 .kontakt ::placeholder {
-	font-size: 14pt;
+	font-size: 16pt;
 	font-family: 'Lobster', cursive;
+	color:#fff;
 }
 /* ------ Kontakt / kraj ------ */
 
