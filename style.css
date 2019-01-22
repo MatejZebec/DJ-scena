@@ -194,7 +194,7 @@ body {
 .kontakt ::placeholder {
 	font-size: 16pt;
 	font-family: 'Lobster', cursive;
-	color:#fff;
+	color: #ffffff;
 }
 /* ------ Kontakt / kraj ------ */
 
@@ -355,7 +355,7 @@ body {
 .social-profile p {
 	position: absolute;
 	top: 50%;
-	center: 50%;
+	left: 50%;
 	transform: translate(-50%, -50%);
 	text-transform: uppercase;
 	text-align: center;
