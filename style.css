@@ -169,6 +169,7 @@ body {
 	font-size: 30pt;
 	font-family: 'Lobster', cursive;
 	padding-bottom: 30px;
+	color: #ffffff;
 }
 .kontakt input[type=text],
 .kontakt input[type=email],
@@ -194,7 +195,8 @@ body {
 .kontakt ::placeholder {
 	font-size: 16pt;
 	font-family: 'Lobster', cursive;
-	color: #ffffff;
+	color: #f1c40f;
+	
 }
 /* ------ Kontakt / kraj ------ */
 
